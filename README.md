@@ -13,7 +13,7 @@ I build things, solve unique problems, and automate things in Python. I love wor
 [LinkedIn](https://www.linkedin.com/in/jaceiverson/)
 
 ## GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaceiverson&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaceiverson)
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/jaceiverson/jaceiverson/output/github-contribution-grid-snake-dark.svg" />
 
